@@ -1,4 +1,1 @@
-# Bilalclyde
-iOS iDevice Hacks Tips Tricks How to
-GenerationX Devop
-
+Welcome BilalClyde's Repo
